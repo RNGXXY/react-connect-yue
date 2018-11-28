@@ -1,0 +1,16 @@
+{
+  "name": "react-connect-yue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayeu",
+  "license": "ISC",
+  "dependencies": {
+    "react-connect-yue": "^1.0.0",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1"
+  }
+}
